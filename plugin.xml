@@ -1,0 +1,17 @@
+<library path="src">
+  <class name="Thump Plugin" type="rqt_thump.user_study.UserStudyPlugin" base_class_type="rqt_gui_py::Plugin">
+    <description>
+      An example Python GUI plugin to create a great user interface.
+    </description>
+    <qtgui>
+
+      <group>
+        <label>THuMP</label>
+        <icon type="theme">folder</icon>
+      </group>
+      <label>User Study</label>
+      <icon type="theme">applications-science</icon>
+      <statustip>TODO.</statustip>
+    </qtgui>
+  </class>
+</library>

@@ -1,0 +1,361 @@
+----------------- 
+Experiment started at: 15: 38: 00 pm
+15: 53: 25 pm: Added (wp_clean meeting-room)
+15: 53: 42 pm: Added (wp_clean desk2)
+15: 55: 55 pm: Added (object_at_wp box desk3)
+15: 56: 02 pm: Planning clicked
+15: 59: 44 pm: Execution started.
+16: 02: 12 pm: Execution stopped.
+16: 02: 17 pm: Planning clicked
+16: 02: 18 pm: Planning failed
+----------------- 
+Experiment started at: 16: 02: 22 pm
+16: 02: 24 pm: Planning clicked
+16: 02: 25 pm: Planning failed
+----------------- 
+Experiment started at: 16: 03: 48 pm
+16: 04: 21 pm: Added (wp_clean meeting-room)
+16: 04: 30 pm: Added (wp_clean desk2)
+16: 04: 57 pm: Added (object_at_wp box desk3)
+16: 05: 01 pm: Planning clicked
+16: 06: 09 pm: Execution started.
+16: 28: 45 pm: Execution stopped.
+16: 28: 48 pm: Removed predicate (wp_clean desk2)
+16: 28: 48 pm: Removed predicate (wp_clean meeting-room)
+16: 28: 48 pm: Removed predicate (object_at_wp box desk3)
+16: 28: 57 pm: Added (object_at_robot soda freddie)
+16: 28: 59 pm: Planning clicked
+16: 29: 01 pm: Planning failed
+----------------- 
+Experiment started at: 16: 29: 28 pm
+16: 29: 34 pm: Added (object_at_robot soda freddie)
+16: 29: 35 pm: Planning clicked
+16: 29: 44 pm: Planning clicked
+16: 29: 49 pm: Execution started.
+----------------- 
+Experiment started at: 11: 49: 24 am
+11: 49: 35 am: Added (object_at_wp soda sink)
+11: 49: 41 am: Planning clicked
+11: 49: 48 am: Execution started.
+11: 53: 03 am: Removed predicate (object_at_wp soda sink)
+11: 53: 04 am: Removed predicate (object_at_wp soda sink)
+11: 53: 04 am: Removed predicate (object_at_wp soda sink)
+11: 53: 04 am: Removed predicate (object_at_wp soda sink)
+11: 53: 42 am: Added (object_at_wp soda small-table-2)
+11: 53: 43 am: Planning clicked
+11: 53: 47 am: Removed predicate (object_at_wp soda small-table-2)
+11: 53: 52 am: Execution started.
+11: 55: 26 am: Removed predicate (object_at_wp soda small-table-2)
+11: 55: 26 am: Removed predicate (object_at_wp soda small-table-2)
+11: 55: 26 am: Removed predicate (object_at_wp soda small-table-2)
+----------------- 
+Experiment started at: 12: 07: 12 pm
+----------------- 
+Experiment started at: 12: 15: 35 pm
+----------------- 
+Experiment started at: 12: 17: 32 pm
+----------------- 
+Experiment started at: 12: 18: 18 pm
+----------------- 
+Experiment started at: 12: 21: 55 pm
+----------------- 
+Experiment started at: 12: 23: 30 pm
+----------------- 
+Experiment started at: 12: 27: 07 pm
+----------------- 
+Experiment started at: 12: 31: 55 pm
+----------------- 
+Experiment started at: 12: 32: 50 pm
+----------------- 
+Experiment started at: 12: 33: 33 pm
+----------------- 
+Experiment started at: 12: 34: 59 pm
+----------------- 
+Experiment started at: 12: 36: 28 pm
+----------------- 
+Experiment started at: 12: 37: 01 pm
+----------------- 
+Experiment started at: 12: 51: 51 pm
+12: 52: 11 pm: Added (robot_at freddie goes to small-office)
+12: 52: 15 pm: Planning clicked
+----------------- 
+Experiment started at: 15: 19: 10 pm
+----------------- 
+Experiment started at: 15: 19: 14 pm
+15: 20: 02 pm: Added (object_at_wp Move soda to common-room)
+15: 20: 04 pm: Planning clicked
+----------------- 
+Experiment started at: 15: 21: 19 pm
+----------------- 
+Experiment started at: 15: 21: 19 pm
+15: 21: 25 pm: Added (robot_at freddie goes to common-room)
+15: 21: 31 pm: Removed predicate (object_at_wp soda common-room)
+15: 21: 32 pm: Planning clicked
+----------------- 
+Experiment started at: 15: 22: 06 pm
+15: 22: 19 pm: Planning clicked
+----------------- 
+Experiment started at: 15: 24: 25 pm
+----------------- 
+Experiment started at: 15: 24: 34 pm
+----------------- 
+Experiment started at: 15: 24: 37 pm
+15: 24: 41 pm: Planning clicked
+15: 25: 27 pm: Planning clicked
+15: 25: 36 pm: Execution started.
+15: 25: 36 pm: Execution stopped.
+15: 25: 44 pm: Removed predicate (robot_at freddie common-room)
+----------------- 
+Experiment started at: 15: 25: 46 pm
+15: 25: 52 pm: Added (robot_at freddie goes to common-room)
+15: 25: 59 pm: Added (object_at_wp Move soda to large-office)
+15: 26: 00 pm: Planning clicked
+15: 26: 00 pm: Planning failed
+15: 26: 02 pm: Planning clicked
+15: 26: 03 pm: Planning failed
+----------------- 
+Experiment started at: 15: 26: 11 pm
+----------------- 
+Experiment started at: 15: 26: 16 pm
+15: 27: 04 pm: Added (robot_at freddie goes to common-room)
+15: 27: 10 pm: Added (object_at_wp Move soda to small-office)
+15: 27: 12 pm: Planning clicked
+----------------- 
+Experiment started at: 15: 47: 29 pm
+----------------- 
+Experiment started at: 15: 47: 38 pm
+15: 47: 43 pm: Planning clicked
+----------------- 
+Experiment started at: 15: 48: 31 pm
+----------------- 
+Experiment started at: 15: 48: 40 pm
+15: 48: 43 pm: Planning clicked
+----------------- 
+Experiment started at: 15: 49: 22 pm
+----------------- 
+Experiment started at: 15: 49: 30 pm
+----------------- 
+Experiment started at: 15: 49: 37 pm
+15: 49: 42 pm: Planning clicked
+----------------- 
+Experiment started at: 15: 51: 45 pm
+----------------- 
+Experiment started at: 15: 51: 54 pm
+15: 51: 56 pm: Planning clicked
+----------------- 
+Experiment started at: 15: 54: 10 pm
+----------------- 
+Experiment started at: 15: 54: 22 pm
+15: 54: 31 pm: Added (robot_at freddie goes to common-room)
+15: 54: 41 pm: Added (object_at_wp Move soda to kitchen-table)
+15: 54: 51 pm: Planning clicked
+15: 55: 17 pm: Execution started.
+15: 55: 30 pm: Execution stopped.
+----------------- 
+Experiment started at: 15: 57: 13 pm
+----------------- 
+Experiment started at: 15: 57: 13 pm
+15: 57: 19 pm: Planning clicked
+15: 57: 33 pm: Execution started.
+15: 58: 23 pm: Removed predicate (robot_at freddie common-room)
+15: 58: 23 pm: Removed predicate (object_at_wp soda kitchen-table)
+----------------- 
+Experiment started at: 15: 58: 49 pm
+----------------- 
+Experiment started at: 15: 58: 50 pm
+----------------- 
+Experiment started at: 15: 59: 04 pm
+----------------- 
+Experiment started at: 15: 59: 08 pm
+15: 59: 11 pm: Planning clicked
+----------------- 
+Experiment started at: 15: 59: 55 pm
+----------------- 
+Experiment started at: 16: 00: 03 pm
+16: 00: 07 pm: Added (robot_at freddie goes to common-room)
+16: 00: 08 pm: Planning clicked
+16: 00: 25 pm: Execution started.
+16: 00: 31 pm: Removed predicate (robot_at freddie common-room)
+----------------- 
+Experiment started at: 16: 02: 07 pm
+----------------- 
+Experiment started at: 16: 02: 12 pm
+16: 02: 15 pm: Added (robot_at freddie goes to common-room)
+16: 02: 16 pm: Planning clicked
+16: 02: 32 pm: Execution started.
+16: 02: 37 pm: Removed predicate (robot_at freddie common-room)
+----------------- 
+Experiment started at: 16: 04: 02 pm
+----------------- 
+Experiment started at: 16: 04: 12 pm
+16: 04: 14 pm: Added (robot_at freddie goes to common-room)
+16: 04: 15 pm: Planning clicked
+16: 04: 24 pm: Execution started.
+16: 04: 27 pm: Removed predicate (robot_at freddie common-room)
+----------------- 
+Experiment started at: 16: 05: 20 pm
+----------------- 
+Experiment started at: 16: 05: 25 pm
+16: 05: 28 pm: Added (robot_at freddie goes to common-room)
+16: 05: 29 pm: Planning clicked
+16: 05: 40 pm: Execution started.
+16: 05: 41 pm: Removed predicate (robot_at freddie common-room)
+----------------- 
+Experiment started at: 16: 06: 25 pm
+----------------- 
+Experiment started at: 16: 06: 34 pm
+16: 06: 38 pm: Added (robot_at freddie goes to common-room)
+16: 06: 39 pm: Planning clicked
+16: 06: 49 pm: Execution started.
+16: 06: 51 pm: Removed predicate (robot_at freddie common-room)
+----------------- 
+Experiment started at: 16: 08: 09 pm
+16: 08: 20 pm: Added (robot_at freddie goes to small-office)
+16: 08: 28 pm: Added (object_at_wp Move soda to kitchen-table)
+16: 08: 29 pm: Planning clicked
+16: 08: 55 pm: Execution started.
+16: 10: 10 pm: Execution stopped.
+16: 10: 37 pm: Planning clicked
+----------------- 
+Experiment started at: 16: 11: 22 pm
+16: 11: 38 pm: Added (robot_at freddie goes to common-room)
+16: 11: 44 pm: Added (object_at_wp Move soda to small-table-2)
+16: 11: 45 pm: Planning clicked
+16: 12: 03 pm: Execution started.
+16: 13: 45 pm: Execution stopped.
+16: 13: 50 pm: Removed predicate (object_at_wp soda small-table-2)
+16: 13: 55 pm: Planning clicked
+16: 14: 01 pm: Execution started.
+16: 14: 47 pm: Execution stopped.
+16: 14: 48 pm: Planning clicked
+16: 14: 50 pm: Planning failed
+16: 14: 51 pm: Planning clicked
+16: 14: 52 pm: Planning failed
+----------------- 
+Experiment started at: 16: 15: 18 pm
+16: 15: 23 pm: Added (robot_at freddie goes to common-room)
+16: 15: 24 pm: Planning clicked
+16: 15: 28 pm: Execution started.
+----------------- 
+Experiment started at: 16: 16: 24 pm
+----------------- 
+Experiment started at: 16: 16: 27 pm
+16: 16: 33 pm: Planning clicked
+16: 16: 33 pm: Planning failed
+16: 16: 36 pm: Removed predicate (robot_at freddie common-room)
+16: 16: 38 pm: Added (robot_at freddie goes to small-office)
+16: 16: 39 pm: Planning clicked
+16: 16: 39 pm: Planning failed
+----------------- 
+Experiment started at: 16: 17: 14 pm
+16: 17: 25 pm: Added (robot_at freddie goes to small-office)
+16: 17: 27 pm: Planning clicked
+16: 17: 32 pm: Execution started.
+16: 18: 18 pm: Removed predicate (robot_at freddie small-office)
+----------------- 
+Experiment started at: 16: 20: 14 pm
+16: 20: 20 pm: Added (robot_at freddie goes to small-office)
+16: 20: 21 pm: Planning clicked
+16: 20: 26 pm: Execution started.
+----------------- 
+Experiment started at: 16: 20: 42 pm
+----------------- 
+Experiment started at: 16: 23: 26 pm
+16: 23: 32 pm: Added (robot_at freddie goes to small-office)
+16: 23: 33 pm: Planning clicked
+16: 23: 38 pm: Execution started.
+16: 23: 46 pm: Removed predicate (robot_at freddie small-office)
+----------------- 
+Experiment started at: 16: 24: 17 pm
+----------------- 
+Experiment started at: 16: 24: 21 pm
+16: 24: 31 pm: Added (robot_at freddie goes to small-office)
+16: 24: 33 pm: Planning clicked
+16: 24: 37 pm: Execution started.
+16: 24: 40 pm: Removed predicate (robot_at freddie small-office)
+----------------- 
+Experiment started at: 16: 24: 55 pm
+16: 25: 00 pm: Added (robot_at freddie goes to common-room)
+16: 25: 03 pm: Removed predicate (robot_at freddie common-room)
+----------------- 
+Experiment started at: 16: 25: 40 pm
+16: 25: 45 pm: Added (robot_at freddie goes to small-office)
+16: 25: 48 pm: Planning clicked
+16: 25: 52 pm: Execution started.
+16: 25: 56 pm: Removed predicate (robot_at freddie small-office)
+----------------- 
+Experiment started at: 16: 26: 55 pm
+16: 27: 00 pm: Added (robot_at freddie goes to small-office)
+16: 27: 01 pm: Planning clicked
+16: 27: 06 pm: Execution started.
+16: 27: 09 pm: Removed predicate (robot_at freddie small-office)
+----------------- 
+Experiment started at: 16: 27: 40 pm
+16: 27: 46 pm: Added (robot_at freddie goes to small-office)
+16: 27: 47 pm: Planning clicked
+16: 27: 50 pm: Execution started.
+16: 27: 51 pm: Removed predicate (robot_at freddie small-office)
+16: 28: 09 pm: Planning clicked
+16: 28: 12 pm: Removed predicate (robot_at freddie small-office)
+16: 29: 06 pm: Added (robot_at freddie goes to common-room)
+16: 29: 07 pm: Planning clicked
+16: 29: 10 pm: Removed predicate (robot_at freddie common-room)
+16: 29: 13 pm: Execution started.
+16: 30: 00 pm: Removed predicate (robot_at freddie common-room)
+----------------- 
+Experiment started at: 11: 02: 39 am
+11: 15: 49 am: Added (object_at_person Give soda to senka)
+11: 15: 51 am: Planning clicked
+11: 17: 24 am: Execution started.
+11: 19: 52 am: Removed predicate (object_at_person soda senka)
+11: 19: 52 am: Removed predicate (object_at_person soda senka)
+11: 40: 04 am: Added (robot_at freddie goes to common-room)
+11: 40: 06 am: Planning clicked
+11: 40: 09 am: Removed predicate (robot_at freddie common-room)
+11: 40: 11 am: Execution started.
+11: 41: 12 am: Removed predicate (robot_at freddie common-room)
+11: 51: 32 am: Added (object_at_wp Move box to small-table-2)
+11: 51: 43 am: Planning clicked
+11: 51: 48 am: Removed predicate (object_at_wp box small-table-2)
+11: 51: 54 am: Planning clicked
+11: 51: 58 am: Removed predicate (object_at_wp box small-table-2)
+11: 51: 59 am: Execution started.
+11: 52: 10 am: Execution stopped.
+11: 52: 16 am: Planning clicked
+11: 52: 20 am: Removed predicate (object_at_wp box small-table-2)
+11: 52: 23 am: Planning clicked
+11: 52: 28 am: Removed predicate (object_at_wp box small-table-2)
+11: 52: 30 am: Execution started.
+11: 52: 45 am: Execution stopped.
+11: 52: 49 am: Removed predicate (object_at_wp box small-table-2)
+11: 52: 59 am: Added (object_at_wp Move box to small-table-2)
+11: 53: 02 am: Planning clicked
+11: 53: 06 am: Removed predicate (object_at_wp box small-table-2)
+11: 53: 10 am: Execution started.
+11: 55: 55 am: Removed predicate (object_at_wp box small-table-2)
+11: 55: 55 am: Removed predicate (object_at_wp box small-table-2)
+11: 56: 18 am: Planning clicked
+11: 56: 20 am: Removed predicate (object_at_wp box small-table-2)
+11: 56: 28 am: Added (robot_at freddie goes to common-room)
+11: 56: 30 am: Planning clicked
+11: 56: 34 am: Removed predicate (robot_at freddie common-room)
+11: 56: 37 am: Execution started.
+11: 57: 27 am: Removed predicate (robot_at freddie common-room)
+11: 59: 49 am: Added (object_at_wp Move soda to desk1)
+11: 59: 52 am: Planning clicked
+11: 59: 54 am: Planning failed
+12: 00: 28 pm: Planning clicked
+12: 00: 30 pm: Planning failed
+12: 00: 39 pm: Added (object_at_wp Move fanta to desk1)
+12: 00: 42 pm: Planning clicked
+12: 00: 44 pm: Planning failed
+12: 00: 50 pm: Removed predicate (object_at_wp fanta desk1)
+12: 00: 50 pm: Removed predicate (object_at_wp soda desk1)
+12: 00: 57 pm: Added (object_at_wp Move fanta to desk1)
+12: 01: 03 pm: Planning clicked
+12: 01: 16 pm: Removed predicate (object_at_wp fanta desk1)
+12: 01: 20 pm: Execution started.
+12: 04: 36 pm: Removed predicate (object_at_wp fanta desk1)
+12: 04: 37 pm: Removed predicate (object_at_wp fanta desk1)
+12: 04: 37 pm: Removed predicate (object_at_wp fanta desk1)
+12: 04: 37 pm: Removed predicate (object_at_wp fanta desk1)

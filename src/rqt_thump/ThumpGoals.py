@@ -355,8 +355,11 @@ class PlanViewWidget(QWidget):
             pred = predicates_templates[pred_name]
             for i, p in enumerate(element):
                 pred = pred.replace('/' + str(i), p)
-            if not "unknown" in pred:
+            if not any(element in pred for element in ['unknown', 'common' , 'large', 'small-office']):
                 combo.addItem(pred)
+            if 'cupboard' in pred:
+                combo.addItem(pred)
+
 
     """
     Additional method for creating a new goal

@@ -29,11 +29,10 @@ else:
     from python_qt_binding.QtGui import QIcon
 
 predicates = {"robot_at": "Go to", "object_at_wp": "Move object", "object_at_person": "Give object",
-              "object_at_robot": "Grasp object", "person_found": "Find person", "wp_clean": "Clean"}
+              "object_at_robot": "Grasp object", "person_found": "Find person", "wp_clean": "Clean", "wp_clear": "Clear", "wp_wiped": "Wipe", "obj_inspected": "Inspect"}
 pred_keys = list(predicates.keys())
 pred_vals = list(predicates.values())
-predicates_templates = {"robot_at": "/0 goes to /1", "object_at_wp": "Move /0 to /1", "wp_clean": "Clean /0",
-                        "object_at_person": "Give /0 to /1", "object_at_robot": "/1 has /0", "person_found": "Find /0"}
+predicates_templates = {"robot_at": "/0 goes to /1", "object_at_wp": "Move /0 to /1", "wp_clean": "Clean /0", "wp_clear": "Clear /0", "wp_wiped": "Wipe /0", "obj_inspected": "Inspect /0", "object_at_person": "Give /0 to /1", "object_at_robot": "/1 has /0", "person_found": "Find /0"}
 
 
 class PlanViewWidget(QWidget):
